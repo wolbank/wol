@@ -1,4 +1,4 @@
-# Wrapped Viplus Coin (WVPC)
+# Word Of Life (WOL)
 
 ![Word Of Life Coin](https://wolbank.org/default/asset/img/logo.png)
 
@@ -11,4 +11,5 @@
 - Decimals: 18
 
 
-For more information, please visit: Complete Soon !
+For more information, please visit: https://viplus.org
+
